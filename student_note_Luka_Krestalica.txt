@@ -1,0 +1,5 @@
+Ime i prezime: Luka Krestalica
+Datum: 01.11.2026.
+
+Ovo je moja beleška za zadatak o kloniranju GitHub repozitorijuma,
+pravljenju lokalnog commita i slanju izmena na svoj fork.
